@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Ghulam Farid 👋
 
-## Software Engineer | Problem Solver | Tech Enthusiast
+## Software Engineer | Problem Solver
 
 Welcome to my GitHub profile! I'm a passionate software engineer with over 1.5 years of hands-on experience in crafting digital solutions that bridge the gap between technology and real-world business challenges. My journey through the tech landscape has led me to work with a diverse set of tools, languages, and frameworks.
 
