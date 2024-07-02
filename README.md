@@ -51,8 +51,12 @@ Here are the technologies I work with:
         <br>Bootstrap
     </td>
     <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="80" height="80" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="80" height="80" />
         <br>Tailwind CSS
+    </td>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="80" height="80" />
+        <br>Next.js
     </td>
     <td align='center' width="190">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="80" height="80" />
