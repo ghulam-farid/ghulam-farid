@@ -2,7 +2,7 @@
 
 ## Software Engineer | Problem Solver
 
-Welcome to my GitHub profile! I'm a passionate software engineer with over 1.5 years of hands-on experience in crafting digital solutions that bridge the gap between technology and real-world business challenges. My journey through the tech landscape has led me to work with a diverse set of tools, languages, and frameworks.
+Welcome to my GitHub profile! I'm a passionate software engineer with over 2 years of hands-on experience in crafting digital solutions that bridge the gap between technology and real-world business challenges. My journey through the tech landscape has led me to work with a diverse set of tools, languages, and frameworks.
 
 ### 💻🛠️ Tech Stack and Tools
 
@@ -100,7 +100,9 @@ Here are the technologies I work with:
     </td>
 </tr>
 </table>
+
 ### 🌟 What I Bring to the Table
+
 - 🚀 Experience: Over 2 years of dedicated software development experience, enabling me to architect robust solutions.
 - 🎯 Problem-Solving: I'm enthusiastic about diving into complex challenges and finding innovative solutions that drive business success.
 - 📚 Continuous Learning: My passion for technology extends beyond my current skillset. I'm constantly exploring new tools and languages to stay at the forefront of tech trends.
