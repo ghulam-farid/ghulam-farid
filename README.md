@@ -1,17 +1,16 @@
-# Hi, I'm Ghulam Farid 👋  
-**Software Engineer (3.5+ Years) | Full-Stack Developer | Problem Solver**  
-Crafting scalable web applications & enhancing SaaS/ERP solutions for global clients.
+<h1 align="center">Hey there, I'm Ghulam Farid 👋</h1>
+<p align="center">
+  🚀 Full Stack Developer | DevOps Enthusiast
+</p>
 
 ---
 
-## 🚀 About Me  
-I'm a passionate software engineer with 3.5+ years of experience building and improving web applications — from small business tools to large-scale SaaS and ERP platforms.  
+## 👨‍💻 About Me
 
-I’ve worked with diverse tech stacks (**PHP/Laravel**, **Python/Django**, **JavaScript/Node.js**, **PostgreSQL**, **MySQL**) and architectures (**monolith**, **microservices**) to deliver impactful solutions for international clients.  
+With over **3.5 years of hands-on experience**, I specialize in building scalable web applications, crafting clean APIs, and deploying reliable systems.  
+I’m equally at home designing responsive UIs, optimizing backend logic, and setting up cloud infrastructure.  
 
-Currently, I’m deepening my **Python/Django** expertise while enhancing a CRM platform, and I’m excited to contribute to open-source projects that make a difference.  
-
-I take pride in delivering features end-to-end — from crafting responsive UIs with **Bootstrap**, to building scalable backends, to containerizing and deploying apps using **Docker**, **Nginx**, and **GitLab CI/CD**.
+💡 I believe great software is built end-to-end — from idea → code → deploy → monitor — and I thrive in every stage of that journey.
 
 ---
 
@@ -134,14 +133,15 @@ I take pride in delivering features end-to-end — from crafting responsive UIs 
 
 ---
 
-## 📌 Career Highlights  
-- **3.5+ years** developing and enhancing scalable web apps for global clients.  
-- Delivered **SaaS & ERP features** under tight deadlines without compromising quality.  
-- Skilled in **monolith & microservices** architectures.  
-- **Containerized** apps with Docker and configured **Nginx** for production deployment.  
-- Built & documented APIs using **Swagger** for clear client–developer collaboration.  
-- Wrote **CI/CD pipelines** with GitLab to automate deployments.  
-- Strong problem-solving mindset — passionate about writing clean, maintainable code.  
+## 🏆 Career Highlights
+
+- **Full-stack mastery**: Built dynamic web applications using **Laravel**, **Vue.js**, and **RESTful APIs**.  
+- **Containerization**: Used **Docker** to containerize apps for consistent and portable deployments.  
+- **Cloud deployment**: Configured **AWS EC2** instances and **RDS** for database hosting, connected via **GitLab CI/CD** pipelines for automated delivery.  
+- **API documentation**: Created API docs with **Swagger** to streamline developer and client communication.  
+- **DevOps exploration**: Configured **Nginx** for web serving, experimented with CI/CD, and deployed test environments for learning.  
+- **UI implementation**: Integrated **Bootstrap** components for responsive, user-friendly designs.  
+- **Multi-environment coding**: Worked with **JetBrains WebStorm, PhpStorm, and VS Code** across Linux-based setups.
 
 ---
 
