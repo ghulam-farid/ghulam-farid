@@ -46,7 +46,7 @@ I take pride in delivering features end-to-end — from crafting responsive UIs 
         <br>Laravel
     </td>
     <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="80" height="80" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" width="80" height="80" />
         <br>Django
     </td>
     <td align='center' width="190">
