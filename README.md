@@ -17,38 +17,120 @@ I take pride in delivering features end-to-end — from crafting responsive UIs 
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
-
-**Frameworks & Libraries**  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
-
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)  
-
-**DevOps & Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)  
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)  
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?logo=gitlab&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)  
-![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?logo=phpstorm&logoColor=white)  
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white)  
+<table width="100%">
+<tr>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="80" height="80" />
+        <br>PHP
+    </td>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80" height="80" />
+        <br>Python
+    </td>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80" height="80" />
+        <br>JavaScript
+    </td>
+        <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="80" height="80" />
+        <br>Java
+    </td>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="80" height="80" />
+        <br>C#
+    </td>
+</tr>
+<tr>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" width="80" height="80" />
+        <br>Laravel
+    </td>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="80" height="80" />
+        <br>Django
+    </td>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="80" height="80" />
+        <br>Node.js
+    </td>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="80" height="80" />
+        <br>Tailwind CSS
+    </td>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="80" height="80" />
+        <br>Vue.js
+    </td>
+</tr>
+<tr>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="80" height="80" />
+        <br>Next.js
+    </td>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="80" height="80" />
+        <br>Bootstrap
+    </td>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="80" height="80" />
+        <br>PostgreSQL
+    </td>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="80" height="80" />
+        <br>MySQL
+    </td>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="80" height="80" />
+        <br>SQL Server
+    </td>
+</tr>
+<tr>
+    <td align='center' width="190">
+        <img src="https://avatars.githubusercontent.com/u/7658037?s=200&v=4" width="80" height="80" />
+        <br>Swagger
+    </td>
+    <td align='center' width="190">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="80" height="80" />
+        <br>AWS
+    </td>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="80" height="80" />
+        <br>Docker
+    </td>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="80" height="80" />
+        <br>Nginx
+    </td>
+    <td align='center' width="190">
+        <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="80" height="80" />
+        <br>GitLab CI/CD
+    </td>
+</tr>
+<tr>
+</tr>
+<tr>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="80" height="80" />
+        <br>Git
+    </td>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="80" height="80" />
+        <br>Linux
+    </td>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="80" height="80" />
+        <br>VS Code
+    </td>
+    <td align='center' width="190">
+        <img src="https://resources.jetbrains.com/storage/products/phpstorm/img/meta/phpstorm_logo_300x300.png" width="80" height="80" />
+        <br>PhpStorm
+    </td>
+    <td align='center' width="190">
+        <img src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" width="80" height="80" />
+        <br>WebStorm
+    </td>
+</tr>
+</table>
 
 ---
 
